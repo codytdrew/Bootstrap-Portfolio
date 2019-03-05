@@ -1,0 +1,17 @@
+nav {
+    margin-bottom: 20px;
+}
+body {
+    line-height: 2 !important;
+    color: #777777;
+    font-family: 'Georgia',Times,'Times New Roman', serif;
+}
+h1 {
+    color: #4aaaa5;
+}
+.jumbotron {
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+}
