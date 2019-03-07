@@ -8,10 +8,40 @@ body {
 }
 h1 {
     color: #4aaaa5;
+    font-size: 24px;
 }
 .jumbotron {
     background-color: white;
     width: 960px;
     margin: 0 auto;
     padding: 1.5rem 1rem;
+}
+#button1, #button2, #button3, #button4, #button5 {
+    position: absolute;
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    width: 200px;
+}
+#button1 {
+    top: 64%;
+    left: 3.2%;
+}
+#button2 {
+    top: 64%;
+    left: 52.7%
+}
+#button3 {
+    left: 3.2%;
+    top: 64%;
+}
+#button4 {
+    top: 64%;
+    left: 52.7%
+}
+#button5 {
+    top: 64%;
+    left: 1.6%
 }
